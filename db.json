@@ -1,52 +1,16 @@
 {
-  "schedule": [
+  "dashboard": [
     {
-      "date": "2022-12-05",
-      "name": "Břetislav"
+      "author": "Břetislav"
+      "content": "Přijdu později"
     },
     {
-      "date": "2022-12-05",
-      "name": "Břetislav"
+      "author": "Karel"
+      "content": "Přijdu jindy"
     },
     {
-      "date": "2022-12-05",
-      "name": "Břetislav"
+      "author": "Ivana"
+      "content": "Nepřijdu"
     },
-    {
-      "date": "2022-12-05",
-      "name": "Břetislav"
-    },
-    {
-      "date": "2022-11-28",
-      "name": "Čestmír"
-    },
-    {
-      "date": "2022-11-28",
-      "name": "Čestmír"
-    },
-    {
-      "date": "2022-11-28",
-      "name": "Čestmír"
-    },
-    {
-      "date": "2022-11-28",
-      "name": "Čestmír"
-    },
-    {
-      "date": "2022-11-28",
-      "name": "Čestmír"
-    },
-    {
-      "date": "2022-12-05",
-      "name": "Břetislav"
-    },
-    {
-      "date": "2022-12-12",
-      "name": "Vladan"
-    },
-    {
-      "date": "2022-12-19",
-      "name": "Bohdana"
-    }
   ]
 }
